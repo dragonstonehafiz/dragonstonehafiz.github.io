@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Portfolio Website"
+  
+  navbar:
+    left:
+      - href: page01-home.qmd
+        text: Home
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
