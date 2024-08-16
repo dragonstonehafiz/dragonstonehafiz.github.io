@@ -2,8 +2,64 @@
   {
     "objectID": "page01-home.html",
     "href": "page01-home.html",
-    "title": "Projects",
+    "title": "About",
     "section": "",
-    "text": "Test"
+    "text": "About\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "page02-gamedev.html",
+    "href": "page02-gamedev.html",
+    "title": "Game Projects",
+    "section": "",
+    "text": "The projects showcased here were all made during my time at Nanyang Polytechnic. The first three projects, Electronica, LOCUS, and The Last Survivor, were written in C# on the Unity Game Engine. The last two projects, AI Pathfinding Game and A Simple Physics Game, were made as part of some assignments for two the AI and Physics modules respectively. These games were written in C++ on a custom engine provided by the school.\n\n\n\n\nA top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.\nUser Interface: A particular point of pride for me was animating the health bars for both players and bosses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis was a Visual Reality (VR) game that I worked on with other students, including artists and even some exchange students. The game was built on the Unity Game Engine and was designed to be played on the HTC Vive. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.\n\n\n\n\nUser Input with the HTC Vive controllers\nGameplay Mechanics: Things like puzzles, scares, and the game’s progression"
+  },
+  {
+    "objectID": "page02-gamedev.html#electronica-fyp-2",
+    "href": "page02-gamedev.html#electronica-fyp-2",
+    "title": "Game Projects",
+    "section": "",
+    "text": "A top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.\nUser Interface: A particular point of pride for me was animating the health bars for both players and bosses."
+  },
+  {
+    "objectID": "page02-gamedev.html#locus-fyp-1",
+    "href": "page02-gamedev.html#locus-fyp-1",
+    "title": "Game Projects",
+    "section": "",
+    "text": "This was a Visual Reality (VR) game that I worked on with other students, including artists and even some exchange students. The game was built on the Unity Game Engine and was designed to be played on the HTC Vive. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.\n\n\n\n\nUser Input with the HTC Vive controllers\nGameplay Mechanics: Things like puzzles, scares, and the game’s progression"
+  },
+  {
+    "objectID": "page02-gamedev.html#the-last-survivor-studio-project-4",
+    "href": "page02-gamedev.html#the-last-survivor-studio-project-4",
+    "title": "Game Projects",
+    "section": "",
+    "text": "Background\n\n\nWhat I did"
+  },
+  {
+    "objectID": "page02-gamedev.html#ai-pathfinding-game-assignment",
+    "href": "page02-gamedev.html#ai-pathfinding-game-assignment",
+    "title": "Game Projects",
+    "section": "",
+    "text": "Background\n\n\nWhat I did"
+  },
+  {
+    "objectID": "page02-gamedev.html#a-simple-physics-game-assignment",
+    "href": "page02-gamedev.html#a-simple-physics-game-assignment",
+    "title": "Game Projects",
+    "section": "",
+    "text": "A Lovely Image\nAnother Lovely Image\nThe Last Lovely Image"
+  },
+  {
+    "objectID": "page02-gamedev.html#electronica-fyp-2-1",
+    "href": "page02-gamedev.html#electronica-fyp-2-1",
+    "title": "Game Projects",
+    "section": "",
+    "text": "A top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity."
+  },
+  {
+    "objectID": "page03-projects.html",
+    "href": "page03-projects.html",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Personal Projects"
   }
 ]

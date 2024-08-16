@@ -1,0 +1,148 @@
+---
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+# Game Projects
+
+The projects showcased here were all made during my time at Nanyang Polytechnic. The first three projects, *Electronica*, *LOCUS*, and *The Last Survivor*, were written in `C#` on the `Unity Game Engine`. The last two projects, *AI Pathfinding Game* and *A Simple Physics Game*, were made as part of some assignments for two the AI and Physics modules respectively. These games were written in `C++` on a custom engine provided by the school.
+
+
+## Electronica (FYP 2)
+
+
+### Background:
+
+A top down shooter inspired by Geometry Wars. Built on the `Unity Game Engine`, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.
+
+
+### What I did: 
+
+- **5 unique enemies** with different movement patterns
+
+- **4 unique bosses** with different gameplay mechanics
+
+- **2 different game modes**, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.
+
+- **User Interface**: A particular point of pride for me was animating the health bars for both players and bosses.
+
+### Gallery:
+
+::: {layout-ncol=1 style="text-align: center;"}
+{{< video https://youtu.be/MX7wlNfxtfw?si=PX1D5G5at6l8izkp 
+    title="Electronica" 
+    aspect-ratio="16x9" 
+    height="300" >}}
+:::
+
+::: {layout-ncol=4 style="text-align: center;"}
+
+![](img/electronica1.png){group="electronica-gallery"}
+
+![](img/electronica2.png){group="electronica-gallery"}
+
+![](img/electronica4.png){group="electronica-gallery"}
+
+![](img/electronica5.png){group="electronica-gallery"}
+:::
+
+
+## LOCUS (FYP 1)
+
+
+### Background:
+
+This was a Visual Reality (**VR**) game that I worked on with other students, including artists and even some exchange students. The game was built on the `Unity Game Engine` and was designed to be played on the `HTC Vive`. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.
+
+
+### What I did:
+
+- **User Input** with the HTC Vive controllers
+
+- **Gameplay Mechanics**: Things like puzzles, scares, and the game's progression
+
+
+### Gallery:
+
+
+::: {layout-ncol=1 style="text-align: center;"}
+
+
+{{< video https://youtu.be/nvTEuyOUynI?si=KEA39gnx3jAJh_hr 
+    title="LOCUS" 
+    aspect-ratio="16x9"  
+    height="300" >}}
+
+:::
+
+::: {layout-ncol=2 style="text-align: center;"}
+
+
+![](img/locus1.png){group="locus-gallery" width=50%}
+
+![](img/locus2.png){group="locus-gallery" width=50%}
+
+:::
+
+
+## The Last Survivor (Studio Project 4)
+
+### Background:
+
+
+### What I did:
+
+### Gallery:
+
+::: {layout-ncol=1 style="text-align: center;"}
+
+{{< video https://youtu.be/aMmrSXN9EI8?si=aSacrnnrQxxekEl7 
+    title="The Last Survivor" 
+    aspect-ratio="16x9"  
+    height="300" >}}
+
+:::
+
+
+## AI Pathfinding Game (Assignment)
+
+### Background:
+
+
+### What I did:
+
+
+### Gallery:
+
+::: {layout-ncol=1 style="text-align: center;"}
+
+{{< video https://youtu.be/5544wAwSE1I?si=sZYmGERUNmezBAwE 
+    title="AI Game" 
+    aspect-ratio="16x9"  
+    height="300" >}}
+
+:::
+
+
+
+## A Simple Physics Game (Assignment)
+
+### Background:
+
+
+### What I did:
+
+### Gallery:
+
+::: {layout-ncol=1 style="text-align: center;"}
+
+{{< video https://www.youtube.com/watch?v=jAr9eGcGQJk 
+    title="Physics Game" 
+    aspect-ratio="16x9"  
+    height="300" >}}
+
+:::
+
+

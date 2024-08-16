@@ -8,12 +8,22 @@ website:
   navbar:
     left:
       - href: page01-home.qmd
-        text: Home
+        text: About
+      - href: page02-gamedev.qmd
+        text: Game Dev Projects
+      - href: page03-projects.qmd
+        text: Personal Projects
+        
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
+filters:
+  - lightbox
+
+lightbox: true
 
 editor: visual
 
