@@ -9,44 +9,44 @@
   {
     "objectID": "page02-gamedev.html",
     "href": "page02-gamedev.html",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
-    "text": "The projects showcased here were all made during my time at Nanyang Polytechnic. The first three projects, Electronica, LOCUS, and The Last Survivor, were written in C# on the Unity Game Engine. The last two projects, AI Pathfinding Game and A Simple Physics Game, were made as part of some assignments for two the AI and Physics modules respectively. These games were written in C++ on a custom engine provided by the school.\n\n\n\n\nA top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.\nUser Interface: A particular point of pride for me was animating the health bars for both players and bosses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis was a Visual Reality (VR) game that I worked on with other students, including artists and even some exchange students. The game was built on the Unity Game Engine and was designed to be played on the HTC Vive. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.\n\n\n\n\nUser Input with the HTC Vive controllers\nGameplay Mechanics: Things like puzzles, scares, and the game’s progression"
+    "text": "The projects showcased here were all made during my time at Nanyang Polytechnic. The first three projects, Electronica, LOCUS, and The Last Survivor, were written in C# on the Unity Game Engine. The last two projects, AI Pathfinding Game and A Simple Physics Game, were made as part of some assignments for two the AI and Physics modules respectively. These games were written in C++ on a custom engine provided by the school.\n\n\n\n\nA top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.\nUser Interface: A particular point of pride for me was animating the health bars for both players and bosses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis was a Visual Reality (VR) game that I worked on with other students, including artists and even some exchange students. The game was built on the Unity Game Engine and was designed to be played on the HTC Vive. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.\n\n\n\n\nUser Input with the HTC Vive controllers\nGameplay Mechanics: Things like puzzles, scares, and the game’s progression\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis was a wave-based top-down shooter I worked on with three other students as part of our studio project during my second year. The game was built on the Unity Game Engine.\n\n\n\n\nGameplay Mechanics: I wrote the code that handled round progression and enemy spawning.\n4 Non-playable characters, including zombies, ranged drones, the boss, and friendly turrets.\nArtificial Intelligence: I handled the path finding and enemy behaviour.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA turn-based game I made for one of my AI modules. The game was written on a custom engine provided by the school, and the code was written in C++.\n\n\n\n\nPathfinding using A-Star and Breadth-First Search algorithms.\nFinite State Machines for the AI.\nPlayer Vision similar to the fog-of-war mechanic in RTS games.\nRandomized Maze Generation.\nSound Handling using the IrrKlang library.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Peggle inspired game made during my Physics for Game Programming module. The game was written in C++ on a custom game engine provided by the school.\n\n\n\n\nPhysics Simulation for aspects like gravity and impulse.\nCollision Detection using mathematically calculated vectors.\nSound Handling using the IrrKlang library."
   },
   {
     "objectID": "page02-gamedev.html#electronica-fyp-2",
     "href": "page02-gamedev.html#electronica-fyp-2",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
     "text": "A top down shooter inspired by Geometry Wars. Built on the Unity Game Engine, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.\n\n\n\n\n5 unique enemies with different movement patterns\n4 unique bosses with different gameplay mechanics\n2 different game modes, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.\nUser Interface: A particular point of pride for me was animating the health bars for both players and bosses."
   },
   {
     "objectID": "page02-gamedev.html#locus-fyp-1",
     "href": "page02-gamedev.html#locus-fyp-1",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
     "text": "This was a Visual Reality (VR) game that I worked on with other students, including artists and even some exchange students. The game was built on the Unity Game Engine and was designed to be played on the HTC Vive. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.\n\n\n\n\nUser Input with the HTC Vive controllers\nGameplay Mechanics: Things like puzzles, scares, and the game’s progression"
   },
   {
     "objectID": "page02-gamedev.html#the-last-survivor-studio-project-4",
     "href": "page02-gamedev.html#the-last-survivor-studio-project-4",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
-    "text": "Background\n\n\nWhat I did"
+    "text": "This was a wave-based top-down shooter I worked on with three other students as part of our studio project during my second year. The game was built on the Unity Game Engine.\n\n\n\n\nGameplay Mechanics: I wrote the code that handled round progression and enemy spawning.\n4 Non-playable characters, including zombies, ranged drones, the boss, and friendly turrets.\nArtificial Intelligence: I handled the path finding and enemy behaviour."
   },
   {
     "objectID": "page02-gamedev.html#ai-pathfinding-game-assignment",
     "href": "page02-gamedev.html#ai-pathfinding-game-assignment",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
-    "text": "Background\n\n\nWhat I did"
+    "text": "A turn-based game I made for one of my AI modules. The game was written on a custom engine provided by the school, and the code was written in C++.\n\n\n\n\nPathfinding using A-Star and Breadth-First Search algorithms.\nFinite State Machines for the AI.\nPlayer Vision similar to the fog-of-war mechanic in RTS games.\nRandomized Maze Generation.\nSound Handling using the IrrKlang library."
   },
   {
     "objectID": "page02-gamedev.html#a-simple-physics-game-assignment",
     "href": "page02-gamedev.html#a-simple-physics-game-assignment",
-    "title": "Game Projects",
+    "title": "Nanyang Polytechnic Projects",
     "section": "",
-    "text": "A Lovely Image\nAnother Lovely Image\nThe Last Lovely Image"
+    "text": "A Peggle inspired game made during my Physics for Game Programming module. The game was written in C++ on a custom game engine provided by the school.\n\n\n\n\nPhysics Simulation for aspects like gravity and impulse.\nCollision Detection using mathematically calculated vectors.\nSound Handling using the IrrKlang library."
   },
   {
     "objectID": "page02-gamedev.html#electronica-fyp-2-1",
@@ -60,6 +60,27 @@
     "href": "page03-projects.html",
     "title": "Personal Projects",
     "section": "",
-    "text": "Personal Projects"
+    "text": "These were all personal projects that I worked on during my free time after graduating from Nanyang Polytechnic. They were all simple projects that I used to practice programming and automate some tasks that I found tedious. Most of these projects were written in Python, with one being written in Java.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am a really big fan of Fallout 4’s Diamond City Radio, especially the voice lines from the station’s host Travis Miles. The app I made basically emulates was appears in the game, playing songs featured in Fallout 4 with voice lines from Travis Miles in between.\nThe app was written in Java using the LibGDX library. I chose to use LibGDX because I wanted to port the app to mobile, but did not have any experience with mobile development. LibGDX allowed me to write the app once and deploy it to both desktop and mobile platforms.\nUnfortunately, I wasn’t able to get it to work like an actual music player; you are unable to use this app to play music while it is in the background on mobile.\n\n\n\n\nFile loading for the music and voice lines.\nEntity collision using Box2D for calculations.\nSet List: Logic for deciding what voice lines should be played.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI have a spreadsheet I use to help me keep to a budget. Before making this program, I would have to manually type in formulas at the start of a new year (as I have separated my data by year). When I started learning Python, this was a little personal project I worked on because I wanted to waste less time writing the formulas during New Year’s Day.\nAn added benefit I did not expect was the ability to automatically format my sheets to improve readability. You’ll see in the images that some data entries have white backgrounds while others have greyish backgrounds. This is because I was able to set the fill of the cell based on the date of the purchase. The yellow fill indicates when a purchase is a subscription.\n\n\n\n\nUsed Openpyxl to handle writing and reading from Excel files.\nAutomated the process of writing formulas used across all notebooks.\nShared Data Worksheet that tracks the total amount of money spent each year.\ntkinter used to create a simple GUI for the program."
+  },
+  {
+    "objectID": "page03-projects.html#youtube-comment-analyzer",
+    "href": "page03-projects.html#youtube-comment-analyzer",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "::: {layout-ncol=“4” style=“text-align: center;”}"
+  },
+  {
+    "objectID": "page03-projects.html#diamond-city-radio-ver-0.1",
+    "href": "page03-projects.html#diamond-city-radio-ver-0.1",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "I am a really big fan of Fallout 4’s Diamond City Radio, especially the voice lines from the station’s host Travis Miles. The app I made basically emulates was appears in the game, playing songs featured in Fallout 4 with voice lines from Travis Miles in between.\nThe app was written in Java using the LibGDX library. I chose to use LibGDX because I wanted to port the app to mobile, but did not have any experience with mobile development. LibGDX allowed me to write the app once and deploy it to both desktop and mobile platforms.\nUnfortunately, I wasn’t able to get it to work like an actual music player; you are unable to use this app to play music while it is in the background on mobile.\n\n\n\n\nFile loading for the music and voice lines.\nEntity collision using Box2D for calculations.\nSet List: Logic for deciding what voice lines should be played."
+  },
+  {
+    "objectID": "page03-projects.html#budgeting-spreadsheet-automation",
+    "href": "page03-projects.html#budgeting-spreadsheet-automation",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "I have a spreadsheet I use to help me keep to a budget. Before making this program, I would have to manually type in formulas at the start of a new year (as I have separated my data by year). When I started learning Python, this was a little personal project I worked on because I wanted to waste less time writing the formulas during New Year’s Day.\nAn added benefit I did not expect was the ability to automatically format my sheets to improve readability. You’ll see in the images that some data entries have white backgrounds while others have greyish backgrounds. This is because I was able to set the fill of the cell based on the date of the purchase. The yellow fill indicates when a purchase is a subscription.\n\n\n\n\nUsed Openpyxl to handle writing and reading from Excel files.\nAutomated the process of writing formulas used across all notebooks.\nShared Data Worksheet that tracks the total amount of money spent each year.\ntkinter used to create a simple GUI for the program."
   }
 ]

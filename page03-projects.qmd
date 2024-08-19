@@ -1,1 +1,91 @@
+---
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+
 # Personal Projects
+
+These were all personal projects that I worked on during my free time after graduating from Nanyang Polytechnic. They were all simple projects that I used to practice programming and automate some tasks that I found tedious. Most of these projects were written in `Python`, with one being written in `Java`.
+
+## YouTube Comment Analyzer
+
+### Background:
+
+
+### What I did:
+
+-   
+
+
+### Gallery:
+
+::: {layout-ncol="4" style="text-align: center;"}
+
+![](img/spreadsheet1.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet2.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet3.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet4.png){group="spreadsheet-gallery"}
+
+:::
+
+
+## Diamond City Radio ver 0.1
+
+### Background:
+
+I am a really big fan of **Fallout 4's Diamond City Radio**, especially the voice lines from the station's host Travis Miles. The app I made basically emulates was appears in the game, playing songs featured in Fallout 4 with voice lines from Travis Miles in between. 
+
+The app was written in `Java` using the `LibGDX` library. I chose to use `LibGDX` because I wanted to port the app to mobile, but did not have any experience with mobile development. `LibGDX` allowed me to write the app once and deploy it to both desktop and mobile platforms. 
+
+Unfortunately, I wasn't able to get it to work like an actual music player; you are unable to use this app to play music while it is in the background on mobile. 
+
+### What I did:
+
+-   **File loading** for the music and voice lines.
+
+-   **Entity collision** using `Box2D` for calculations.
+
+-   **Set List**: Logic for deciding what voice lines should be played.
+
+### Gallery:
+
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://www.youtube.com/watch?v=E9zW9e6HOzU title="Diamond City Radio" aspect-ratio="16x9" height="300" >}}
+:::
+
+## Budgeting Spreadsheet Automation
+
+### Background:
+
+I have a spreadsheet I use to help me keep to a budget. Before making this program, I would have to manually type in formulas at the start of a new year (as I have separated my data by year). When I started learning `Python`, this was a little personal project I worked on because I wanted to waste less time writing the formulas during New Year's Day.
+  
+An added benefit I did not expect was the ability to automatically format my sheets to improve readability. You'll see in the images that some data entries have white backgrounds while others have greyish backgrounds. This is because I was able to set the fill of the cell based on the date of the purchase. The yellow fill indicates when a purchase is a subscription.
+
+### What I did:
+
+-   Used **Openpyxl** to handle writing and reading from Excel files.
+
+-   **Automated** the process of writing formulas used across all notebooks.
+
+-   **Shared Data Worksheet** that tracks the total amount of money spent each year.
+
+-   **tkinter** used to create a simple GUI for the program.
+
+
+### Gallery:
+
+::: {layout-ncol="4" style="text-align: center;"}
+![](img/spreadsheet1.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet2.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet3.png){group="spreadsheet-gallery"}
+
+![](img/spreadsheet4.png){group="spreadsheet-gallery"}
+:::

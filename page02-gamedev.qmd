@@ -5,40 +5,34 @@ lightbox:
   desc-position: right
   loop: false
 ---
-# Game Projects
+
+# Nanyang Polytechnic Projects
 
 The projects showcased here were all made during my time at Nanyang Polytechnic. The first three projects, *Electronica*, *LOCUS*, and *The Last Survivor*, were written in `C#` on the `Unity Game Engine`. The last two projects, *AI Pathfinding Game* and *A Simple Physics Game*, were made as part of some assignments for two the AI and Physics modules respectively. These games were written in `C++` on a custom engine provided by the school.
 
-
 ## Electronica (FYP 2)
-
 
 ### Background:
 
-A top down shooter inspired by Geometry Wars. Built on the `Unity Game Engine`, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.
+A **top down shooter** inspired by Geometry Wars. Built on the `Unity Game Engine`, all the code for this game was written by me over the course of three months. This was a solo project, and the final thing I worked on before graduating from Nanyang Polytechnic.
 
+### What I did:
 
-### What I did: 
+-   **5 unique enemies** with different movement patterns
 
-- **5 unique enemies** with different movement patterns
+-   **4 unique bosses** with different gameplay mechanics
 
-- **4 unique bosses** with different gameplay mechanics
+-   **2 different game modes**, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.
 
-- **2 different game modes**, Classic and Onslaught. In Classic, the game is round based with boss rounds occurring every 4 rounds. In Onslaught, enemies spawn constantly with increasing intensity.
-
-- **User Interface**: A particular point of pride for me was animating the health bars for both players and bosses.
+-   **User Interface**: A particular point of pride for me was animating the health bars for both players and bosses.
 
 ### Gallery:
 
-::: {layout-ncol=1 style="text-align: center;"}
-{{< video https://youtu.be/MX7wlNfxtfw?si=PX1D5G5at6l8izkp 
-    title="Electronica" 
-    aspect-ratio="16x9" 
-    height="300" >}}
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://youtu.be/MX7wlNfxtfw?si=PX1D5G5at6l8izkp title="Electronica" aspect-ratio="16x9" height="300" >}}
 :::
 
-::: {layout-ncol=4 style="text-align: center;"}
-
+::: {layout-ncol="4" style="text-align: center;"}
 ![](img/electronica1.png){group="electronica-gallery"}
 
 ![](img/electronica2.png){group="electronica-gallery"}
@@ -48,101 +42,124 @@ A top down shooter inspired by Geometry Wars. Built on the `Unity Game Engine`, 
 ![](img/electronica5.png){group="electronica-gallery"}
 :::
 
-
 ## LOCUS (FYP 1)
-
 
 ### Background:
 
-This was a Visual Reality (**VR**) game that I worked on with other students, including artists and even some exchange students. The game was built on the `Unity Game Engine` and was designed to be played on the `HTC Vive`. The project was actually a horror-puzzle game that was started by another group of students just a few months prior.
-
+This was a **Visual Reality (VR)** game that I worked on with other students, including artists and even some exchange students. The game was built on the `Unity Game Engine` and was designed to be played on the `HTC Vive`. The project was actually a **horror-puzzle game** that was started by another group of students just a few months prior.
 
 ### What I did:
 
-- **User Input** with the HTC Vive controllers
+-   **User Input** with the HTC Vive controllers
 
-- **Gameplay Mechanics**: Things like puzzles, scares, and the game's progression
-
+-   **Gameplay Mechanics**: Things like puzzles, scares, and the game's progression
 
 ### Gallery:
 
-
-::: {layout-ncol=1 style="text-align: center;"}
-
-
-{{< video https://youtu.be/nvTEuyOUynI?si=KEA39gnx3jAJh_hr 
-    title="LOCUS" 
-    aspect-ratio="16x9"  
-    height="300" >}}
-
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://youtu.be/nvTEuyOUynI?si=KEA39gnx3jAJh_hr title="LOCUS" aspect-ratio="16x9" height="300" >}}
 :::
 
-::: {layout-ncol=2 style="text-align: center;"}
+::: {layout-ncol="2" style="text-align: center;"}
+![](img/locus1.png){group="locus-gallery" width="50%"}
 
-
-![](img/locus1.png){group="locus-gallery" width=50%}
-
-![](img/locus2.png){group="locus-gallery" width=50%}
-
+![](img/locus2.png){group="locus-gallery" width="50%"}
 :::
-
 
 ## The Last Survivor (Studio Project 4)
 
 ### Background:
 
+This was a **wave-based top-down shooter** I worked on with three other students as part of our studio project during my second year. The game was built on the `Unity Game Engine`.
 
 ### What I did:
 
+-   **Gameplay Mechanics**: I wrote the code that handled round progression and enemy spawning.
+
+-   **4 Non-playable characters**, including zombies, ranged drones, the boss, and friendly turrets.
+
+-   **Artificial Intelligence**: I handled the path finding and enemy behaviour. 
+
 ### Gallery:
 
-::: {layout-ncol=1 style="text-align: center;"}
-
-{{< video https://youtu.be/aMmrSXN9EI8?si=aSacrnnrQxxekEl7 
-    title="The Last Survivor" 
-    aspect-ratio="16x9"  
-    height="300" >}}
-
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://youtu.be/aMmrSXN9EI8?si=aSacrnnrQxxekEl7 title="The Last Survivor" aspect-ratio="16x9" height="300" >}}
 :::
 
+::: {layout-ncol="4" style="text-align: center;"}
+![](img/thelastsurvivor1.png){group="lastsurvivor-gallery"}
+
+![](img/thelastsurvivor2.png){group="lastsurvivor-gallery"}
+
+![](img/thelastsurvivor3.png){group="lastsurvivor-gallery"}
+
+![](img/thelastsurvivor4.png){group="lastsurvivor-gallery"}
+:::
 
 ## AI Pathfinding Game (Assignment)
 
 ### Background:
 
+A **turn-based** game I made for one of my AI modules. The game was written on a custom engine provided by the school, and the code was written in `C++`.
 
 ### What I did:
 
+-   **Pathfinding** using **A-Star** and **Breadth-First Search** algorithms.
+
+-   **Finite State Machines** for the AI.
+
+-   **Player Vision** similar to the fog-of-war mechanic in RTS games.
+
+-   **Randomized Maze Generation**.
+
+-   **Sound Handling** using the IrrKlang library.
 
 ### Gallery:
 
-::: {layout-ncol=1 style="text-align: center;"}
-
-{{< video https://youtu.be/5544wAwSE1I?si=sZYmGERUNmezBAwE 
-    title="AI Game" 
-    aspect-ratio="16x9"  
-    height="300" >}}
-
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://youtu.be/5544wAwSE1I?si=sZYmGERUNmezBAwE title="AI Game" aspect-ratio="16x9" height="300" >}}
 :::
 
+::: {layout-ncol="4" style="text-align: center;"}
 
+![](img/aigame1.png){group="aigame-gallery"}
+
+![](img/aigame2.png){group="aigame-gallery"}
+
+![](img/aigame3.png){group="aigame-gallery"}
+
+![](img/aigame4.png){group="aigame-gallery"}
+:::
 
 ## A Simple Physics Game (Assignment)
 
 ### Background:
 
+A **Peggle** inspired game made during my Physics for Game Programming module. The game was written in `C++` on a custom game engine provided by the school. 
 
 ### What I did:
 
+-   **Physics Simulation** for aspects like gravity and impulse.
+
+-   **Collision Detection** using mathematically calculated vectors.
+
+-   **Sound Handling** using the IrrKlang library.
+
 ### Gallery:
 
-::: {layout-ncol=1 style="text-align: center;"}
-
-{{< video https://www.youtube.com/watch?v=jAr9eGcGQJk 
-    title="Physics Game" 
-    aspect-ratio="16x9"  
-    height="300" >}}
-
+::: {layout-ncol="1" style="text-align: center;"}
+{{< video https://www.youtube.com/watch?v=jAr9eGcGQJk title="Physics Game" aspect-ratio="16x9" height="300" >}}
 :::
 
+::: {layout-ncol="4" style="text-align: center;"}
+
+![](img/physicsgame1.png){group="physicsgame-gallery"}
+
+![](img/physicsgame2.png){group="physicsgame-gallery"}
+
+![](img/physicsgame3.png){group="physicsgame-gallery"}
+
+![](img/physicsgame4.png){group="physicsgame-gallery"}
+
+:::
 

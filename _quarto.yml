@@ -10,15 +10,16 @@ website:
       - href: page01-home.qmd
         text: About
       - href: page02-gamedev.qmd
-        text: Game Dev Projects
+        text: NYP Projects
       - href: page03-projects.qmd
         text: Personal Projects
         
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
+    toc-depth: 2
+    toc-location: left
     
 filters:
   - lightbox
