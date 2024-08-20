@@ -14,36 +14,50 @@ These were all personal projects that I worked on during my free time after grad
 
 ### Background:
 
+I started this project because I have a small YouTube channel that I run as a hobby and wanted to find out what people were saying about my videos. I also wanted to take a crack at doing **sentiment analysis** just to see how it worked. Using [YouTube Data API](https://developers.google.com/youtube/v3), I extracted video and comment data from my channel which I then used to perform sentiment analysis. Using the generated sentiment scores, I generated multiple **Word Clouds** to visualize the most frequently appearing words on negative and positive comments.
+
+Everything in this project was written in `Python`. Libraries like `pandas`, `matplotlib`, `wordcloud`, `spacy`, and `sklearn` were used to help with data manipulation and visualization.
 
 ### What I did:
 
--   
+-   **YouTube Data API** to extract video and comment data.
 
+-   **Pandas** to help with data manipulation.
+
+-   **Sentiment Analysis** using the `transformers` library. The model used was a [pretrained roBERTa model](cardiffnlp/twitter-roberta-base-sentiment).
+
+-   **matplotlib** and **wordcloud** to generate the word clouds.
+
+-   **spacy** to help with extracting keywords based on their part-of-speech (i.e. nouns vs adjectives vs verbs)
+
+-   **sklearn's CountVectorizer** to help with generating word counts for the word cloud.
 
 ### Gallery:
 
-::: {layout-ncol="4" style="text-align: center;"}
+::: {layout-ncol="3" style="text-align: center;"}
+![Negative Comments](img/youtube1.png){group="youtube-gallery"}
 
-![](img/spreadsheet1.png){group="spreadsheet-gallery"}
+![All Comments](img/youtube2.png){group="youtube-gallery"}
 
-![](img/spreadsheet2.png){group="spreadsheet-gallery"}
+![Positive Comments](img/youtube3.png){group="youtube-gallery"}
 
-![](img/spreadsheet3.png){group="spreadsheet-gallery"}
+![Negative Comments Adjectives](img/youtube4.png){group="youtube-gallery"}
 
-![](img/spreadsheet4.png){group="spreadsheet-gallery"}
+![All Comments Adjectives](img/youtube5.png){group="youtube-gallery"}
+
+![Positive Comments Adjective](img/youtube6.png){group="youtube-gallery"}
 
 :::
-
 
 ## Diamond City Radio ver 0.1
 
 ### Background:
 
-I am a really big fan of **Fallout 4's Diamond City Radio**, especially the voice lines from the station's host Travis Miles. The app I made basically emulates was appears in the game, playing songs featured in Fallout 4 with voice lines from Travis Miles in between. 
+I am a really big fan of **Fallout 4's Diamond City Radio**, especially the voice lines from the station's host Travis Miles. The app I made basically emulates was appears in the game, playing songs featured in Fallout 4 with voice lines from Travis Miles in between.
 
-The app was written in `Java` using the `LibGDX` library. I chose to use `LibGDX` because I wanted to port the app to mobile, but did not have any experience with mobile development. `LibGDX` allowed me to write the app once and deploy it to both desktop and mobile platforms. 
+The app was written in `Java` using the `LibGDX` library. I chose to use `LibGDX` because I wanted to port the app to mobile, but did not have any experience with mobile development. `LibGDX` allowed me to write the app once and deploy it to both desktop and mobile platforms.
 
-Unfortunately, I wasn't able to get it to work like an actual music player; you are unable to use this app to play music while it is in the background on mobile. 
+Unfortunately, I wasn't able to get it to work like an actual music player; you are unable to use this app to play music while it is in the background on mobile.
 
 ### What I did:
 
@@ -64,7 +78,7 @@ Unfortunately, I wasn't able to get it to work like an actual music player; you 
 ### Background:
 
 I have a spreadsheet I use to help me keep to a budget. Before making this program, I would have to manually type in formulas at the start of a new year (as I have separated my data by year). When I started learning `Python`, this was a little personal project I worked on because I wanted to waste less time writing the formulas during New Year's Day.
-  
+
 An added benefit I did not expect was the ability to automatically format my sheets to improve readability. You'll see in the images that some data entries have white backgrounds while others have greyish backgrounds. This is because I was able to set the fill of the cell based on the date of the purchase. The yellow fill indicates when a purchase is a subscription.
 
 ### What I did:
@@ -76,7 +90,6 @@ An added benefit I did not expect was the ability to automatically format my she
 -   **Shared Data Worksheet** that tracks the total amount of money spent each year.
 
 -   **tkinter** used to create a simple GUI for the program.
-
 
 ### Gallery:
 

@@ -78,7 +78,7 @@ This was a **wave-based top-down shooter** I worked on with three other students
 
 -   **4 Non-playable characters**, including zombies, ranged drones, the boss, and friendly turrets.
 
--   **Artificial Intelligence**: I handled the path finding and enemy behaviour. 
+-   **Artificial Intelligence**: I handled the path finding and enemy behaviour.
 
 ### Gallery:
 
@@ -121,7 +121,6 @@ A **turn-based** game I made for one of my AI modules. The game was written on a
 :::
 
 ::: {layout-ncol="4" style="text-align: center;"}
-
 ![](img/aigame1.png){group="aigame-gallery"}
 
 ![](img/aigame2.png){group="aigame-gallery"}
@@ -135,7 +134,7 @@ A **turn-based** game I made for one of my AI modules. The game was written on a
 
 ### Background:
 
-A **Peggle** inspired game made during my Physics for Game Programming module. The game was written in `C++` on a custom game engine provided by the school. 
+A **Peggle** inspired game made during my Physics for Game Programming module. The game was written in `C++` on a custom game engine provided by the school.
 
 ### What I did:
 
@@ -152,7 +151,6 @@ A **Peggle** inspired game made during my Physics for Game Programming module. T
 :::
 
 ::: {layout-ncol="4" style="text-align: center;"}
-
 ![](img/physicsgame1.png){group="physicsgame-gallery"}
 
 ![](img/physicsgame2.png){group="physicsgame-gallery"}
@@ -160,6 +158,4 @@ A **Peggle** inspired game made during my Physics for Game Programming module. T
 ![](img/physicsgame3.png){group="physicsgame-gallery"}
 
 ![](img/physicsgame4.png){group="physicsgame-gallery"}
-
 :::
-

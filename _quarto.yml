@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Portfolio Website"
+  title: "Muhd Hafiz' Portfolio Website"
   
   navbar:
     left:
       - href: page01-home.qmd
-        text: About
+        text: Home
       - href: page02-gamedev.qmd
         text: NYP Projects
       - href: page03-projects.qmd
@@ -25,6 +25,4 @@ filters:
   - lightbox
 
 lightbox: true
-
-editor: visual
 

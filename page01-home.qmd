@@ -1,3 +1,31 @@
-# About
+# Home
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## About
+
+I am an undergraduate at the Singapore Institute of Technology studying Applied Artificial Intelligence. 
+
+Before this, I graduated from Nanyang Polytechnic with a Diploma in Game Development and Technology, which has equipped me with programming skills in the context of game development. Although I was trained primarily in `C++`, I have experience in other programming languages like `C#`, `Java`, `Python`, and `R`. Additionally, I have experience using the `Unity` game engine.
+
+Throughout my Diploma studies, I have worked on many projects, including a **top-down shooter**(for which I wrote all the scripts) and a **Virtual Reality** horror game (I handled input logic as well as some gameplay scripts), both of which were built in `Unity`.
+
+## Skills
+
+### Programming Languages
+
+-   C++
+
+-   C#
+
+-   Java
+
+-   Python
+
+-   R
+
+### Tools
+
+-   Unity
+
+-   Adobe Premiere Pro
+
+-   Adobe Photoshop
